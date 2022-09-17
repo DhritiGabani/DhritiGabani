@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning design patterns, database schema, and web architecture
 - 📪 Always happy to chat! Feel free to reach out to me at dgabani@uwaterloo.ca! looking forward to meeting you :)
 - 💻 Find out more about me at [dhritigabani.me](https://dhritigabani.me/#/)
--->
+
 
 Here are the projects I have worked on:
 
