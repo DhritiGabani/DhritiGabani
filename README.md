@@ -4,7 +4,8 @@
 **DhritiGabani/DhritiGabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👋 Hi there, I'm a Biomedical Engineering student at the University of Waterloo. I'm particulary interested in the fields of Healthcare and Climate tech. 
+- 👋 Hi there, My name is Dhriti and I'm a Biomedical Engineering student at the University of Waterloo. 
+- 🔭 I'm particulary interested in the fields of Healthcare and Climate tech. 
 - 🌱 I’m currently learning design patterns, database schema, and web architecture
 - 📪 Always happy to chat! Feel free to reach out to me at dgabani@uwaterloo.ca! looking forward to meeting you :)
 - 💻 Find out more about me at [dhritigabani.me](https://dhritigabani.me/#/)
