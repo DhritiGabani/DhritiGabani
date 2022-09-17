@@ -5,14 +5,14 @@
 - 💻 Find out more about me at [dhritigabani.me](https://dhritigabani.me/#/)
 
 
-  ### Here are the projects I have worked on:
+### Here are the projects I have worked on:
 
-  [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
+[Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
-  [Personal Website](https://github.com/DhritiGabani/dhritigabani.me): A showcase of my passion projects
+[Personal Website](https://github.com/DhritiGabani/dhritigabani.me): A showcase of my passion projects
 
-  [Ambient](https://github.com/DhritiGabani/Ambient): Discord music bot to listen to songs during study sessions
+[Ambient](https://github.com/DhritiGabani/Ambient): Discord music bot to listen to songs during study sessions
 
-  [Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
+[Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
 
-  [Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
+[Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
