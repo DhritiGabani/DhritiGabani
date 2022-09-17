@@ -3,7 +3,6 @@
 <!--
 **DhritiGabani/DhritiGabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 - 👋 Hi there, I'm a Biomedical Engineering student at the University of Waterloo. I'm particulary interested in the fields of healthcare and climate tech. 
 - 🌱 I’m currently learning design patterns, database schema, and web architecture
 - 📪 Always happy to chat! Feel free to reach out to me at dgabani@uwaterloo.ca! looking forward to meeting you :)
@@ -22,5 +21,5 @@ Here are the projects I have worked on:
 
 [Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
 
-
+-->
 
