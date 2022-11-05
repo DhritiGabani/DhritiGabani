@@ -5,7 +5,7 @@
 - 💻 Find out more about me at [dhritigabani.me](https://dhritigabani.me/#/)
 
 
-### Here are the projects I have worked on:
+### Here are some projects I have worked on:
 
 [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
