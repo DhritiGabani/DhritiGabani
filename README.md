@@ -9,11 +9,11 @@
 
 [Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
 
-[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain
+[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using Langchain
 
 [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
-[ConversAI](https://github.com/DhritiGabani/ConversAI): A ChatGTP bot integration with Whatsapp
+[ConversAI](https://github.com/DhritiGabani/ConversAI): A ChatGTP bot integration with Whatsapp using Twilio
 
 [Personal Website](https://github.com/DhritiGabani/dhritigabani.me): A showcase of my passion projects
 
