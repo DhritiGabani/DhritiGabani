@@ -9,7 +9,7 @@
 
 [Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
 
-[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain to answer questions from PDFs 
+[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain
 
 [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
