@@ -17,4 +17,4 @@
 
 [Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
 
-[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot to answer questions from PDFs 
+[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain to answer questions from PDFs 
