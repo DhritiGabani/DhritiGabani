@@ -7,14 +7,14 @@
 
 ### Here are some projects I have worked on:
 
+[Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
+
+[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain to answer questions from PDFs 
+
 [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
 [Personal Website](https://github.com/DhritiGabani/dhritigabani.me): A showcase of my passion projects
 
 [Ambient](https://github.com/DhritiGabani/Ambient): Discord music bot to listen to songs during study sessions
 
-[Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
-
 [Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
-
-[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot made using langchain to answer questions from PDFs 
