@@ -1,5 +1,5 @@
 - 👋 Hi there, My name is Dhriti and I'm a Biomedical Engineering student at the University of Waterloo. 
-- 🔭 I'm particulary interested in the fields of Healthcare and Climate tech. 
+- 🔭 I'm interested in exploring different areas of software engineering
 - 🌱 I’m currently learning about design patterns, langchain, and openAI
 - 📪 Always happy to chat! Feel free to reach out to me at dgabani@uwaterloo.ca! looking forward to meeting you :)
 - 💻 Find out more about me at [dhritigabani.me](https://dhritigabani.me/#/)
