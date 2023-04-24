@@ -13,7 +13,7 @@
 
 [Get Home Safe](https://github.com/binalpreetkalra/get-home-safe): A tool to share location to help university students get back to their dorms safely
 
-ConversAI (https://github.com/DhritiGabani/ConversAI): A ChatGTP bot integration with Whatsapp
+[ConversAI](https://github.com/DhritiGabani/ConversAI): A ChatGTP bot integration with Whatsapp
 
 [Personal Website](https://github.com/DhritiGabani/dhritigabani.me): A showcase of my passion projects
 
