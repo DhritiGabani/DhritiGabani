@@ -16,3 +16,5 @@
 [Diagnose me](https://github.com/DhritiGabani/Diagnose-me): A web-app to diagnose critical diseases using machine learning principles
 
 [Extend your horizons](https://github.com/alliedong/technova-hackathon): A multi-functional chrome extension for productivity and mental wellness
+
+[PDFBot](https://github.com/DhritiGabani/PDFBot): A generative Q&A chatbot to answer questions from PDFs 
